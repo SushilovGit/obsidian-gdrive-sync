@@ -1,0 +1,11 @@
+{
+	"id": "google-drive-sync-plugin",
+	"name": "Google Drive Sync",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Sync your vault with Google Drive",
+	"author": "SushilovGit",
+	"authorUrl": "",
+	"helpUrl": "",
+	"isDesktopOnly": false
+}
